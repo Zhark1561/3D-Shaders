@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: WaterMaterial
+  m_Shader: {fileID: -6465566751694194690, guid: eaaf6f051b1806947b51eefbaa1d5d88, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_bceb51f5f0d748778ca80beb4af163ec:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_8aee15ec26294f7cadcd933490cb2a31: 0
+    - Vector1_dc14ac1b441b460a972052693eca74e0: 0.1
+    - Vector1_e488aa218e6846b8be88bbfacadff20a: 0.5
+    m_Colors:
+    - Color_199aff91f5404a2bb771b5c2a8c02499: {r: 0, g: 0.5882353, b: 1, a: 0}
+    - Color_85c1427d63744de68d8bff5ee15bc77a: {r: 0, g: 0.4313726, b: 1, a: 0}
+    - Vector3_b122f0adbd4f4de0b6d5d76e48ea86fa: {r: -1, g: 0, b: 0, a: 0}
+  m_BuildTextureStacks: []
